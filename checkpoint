@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/mluser/RamExperiment/textClassification/model.tflearn"
+all_model_checkpoint_paths: "/home/mluser/RamExperiment/textClassification/model.tflearn"
